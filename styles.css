@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    background: black;
+    color: white; 
+}
+
+/* header and titles */
+
+.header {
+    padding: 50px; 
+}
+
+.header .title {
+    font-size: 4rem;
+}
+
+@media (max-width: 500px) {
+    .light {
+        visibility: hidden;
+    }
+}
+
+/* images  */
+
+.images {
+    width: 300px;
+}
+
